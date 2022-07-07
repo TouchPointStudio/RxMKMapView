@@ -1,15 +1,15 @@
 PODS:
-  - Nimble (9.0.0)
-  - Quick (3.0.0)
-  - RxCocoa (6.0.0):
-    - RxRelay (= 6.0.0)
-    - RxSwift (= 6.0.0)
+  - Nimble (10.0.0)
+  - Quick (5.0.1)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
   - RxMKMapView (6.0.0):
     - RxCocoa (~> 6.0)
     - RxSwift (~> 6.0)
-  - RxRelay (6.0.0):
-    - RxSwift (= 6.0.0)
-  - RxSwift (6.0.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
 
 DEPENDENCIES:
   - Nimble
@@ -29,13 +29,13 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Nimble: 3b4ec3fd40f1dc178058e0981107721c615643d8
-  Quick: 6d9559f40647bc4d510103842ef2fdd882d753e2
-  RxCocoa: 3f79328fafa3645b34600f37c31e64c73ae3a80e
-  RxMKMapView: d508ac4a99d9977e3536b859229dcb19632ea378
-  RxRelay: 8d593be109c06ea850df027351beba614b012ffb
-  RxSwift: c14e798c59b9f6e9a2df8fd235602e85cc044295
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  Quick: 749aa754fd1e7d984f2000fe051e18a3a9809179
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxMKMapView: 9e33a1f1a6bdd96ef4d489d587df40b0b9017c20
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
 
-PODFILE CHECKSUM: b00a512eee645ff6afe577127d1d464b4a7cdb52
+PODFILE CHECKSUM: 90cde01de4441566f1826a60015cc80caa8500a6
 
-COCOAPODS: 1.9.3
+COCOAPODS: 1.10.0
